@@ -11,7 +11,13 @@ function App() {
         </main>
       </div>
       <footer className="App-footer">
-        <small>Coded by Emily Short</small>
+        <small>
+          <a href="https://github.com/emijsho/sc-react-dictionary">
+            Open Source Code
+          </a>{" "}
+          by Emily Short. Hosted by{" "}
+          <a href="https://dictionary-react-ejs.netlify.app/">Netlify.</a>
+        </small>
       </footer>
     </div>
   );
