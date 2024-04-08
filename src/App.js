@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">Dictionary-React-EJS</header>
+        <header className="App-header">Word Search Dictionary App</header>
         <main>
           <Dictionary />
         </main>

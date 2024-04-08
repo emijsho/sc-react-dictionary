@@ -3,5 +3,10 @@
 }
 .App-footer {
   text-align: center;
-  margin: 30px 0;
+  font-size: 11px;
+  margin: 10px 0;
+}
+.App {
+  max-width: 600px;
+  margin: 30px auto;
 }
