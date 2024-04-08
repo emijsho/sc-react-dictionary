@@ -5,9 +5,11 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">Word Search Dictionary App</header>
+        <header className="App-header">
+          <h1>Word Search Dictionary App</h1>
+        </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
       </div>
       <footer className="App-footer">

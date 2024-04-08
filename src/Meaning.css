@@ -1,0 +1,23 @@
+.Meaning h4 {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.Meaning .definition {
+  color: #000000;
+  text-transform: capitalize;
+  font-size: 16px;
+}
+.Meaning .example {
+  font-size: 16px;
+  color: #70757a;
+  margin-top: 10px;
+  font-style: italic;
+}
+.Meaning .synonyms li {
+  margin-top: 15px;
+  font-size: 14px;
+  display: inline-block;
+  padding-right: 10px;
+}
